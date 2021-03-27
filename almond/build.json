@@ -7,6 +7,6 @@
     "armhf": "homeassistant/armhf-base:3.13"
   },
   "args": {
-    "ALMOND_VERSION": "v1.8.0"
+    "ALMOND_VERSION": "v2.0.0-alpha.1"
   }
 }
